@@ -1,4 +1,4 @@
-package interfaces
+package presenter
 
 type GetNamePresenter interface {
 	presentGetName
